@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @anshiagrawal22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Anshi Agrawal 
+- 🎓 I’m currently pursuing Btech CSE 1 year from UPES Dehradun 
+- 🌱 I like exploring and learning new     things.
 
 
 <!---
