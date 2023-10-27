@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anshi Agrawal 
 - 🎓 I’m currently pursuing Btech CSE 1 year from UPES Dehradun 
-- 🌱 I like exploring and learning new     things.
+- 🌱 I like exploring and learning new things.
 
 
 <!---
