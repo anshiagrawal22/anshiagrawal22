@@ -1,4 +1,4 @@
-# Hello, I'm Anshi Agrawal
+# <center>Hello, I'm Anshi Agrawal</center>
 <br>
 Hi there!👋 I’m Anshi Agrawal, a sophomore pursuing B.Tech in Computer Science at UPES, Dehradun. I have a strong passion for coding and creativity, and I'm eager to explore and learn across various fields of technology and creation. 🎓🌱
 
